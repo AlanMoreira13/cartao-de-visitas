@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+.card {
+    
+    width: 400px;
+    height: 200px;
+    padding: 1px 20px;
+    box-sizing: border-box;
+    background-image: url(./assets/backgorund.png);
+    background-size: cover;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.titulo-card {
+    font-family: 'Supermercado One', cursive;
+    /* padding: 10px;
+    padding-bottom: 0; */
+} 
+
+a {
+    text-decoration: none;
+    color: black;
+}
+.insta {
+    font-family: cursive;
+    list-style-image: url(./assets/Insta.png);
+    
+}
+
+.youtube {
+    font-family:cursive;
+    list-style-image: url(./assets/Youtube.png);
+}
+
+.twitter {
+    font-family:cursive;
+    list-style-image: url(./assets/Twitter.png);
+}
